@@ -25,6 +25,10 @@ ul {
   list-style-type: none;
 }
 
+li {
+  display: inline-block;
+}
+
 .title {
   text-align: center;
   color: #f00;
